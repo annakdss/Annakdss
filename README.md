@@ -9,7 +9,7 @@ Me chamo Anna Karolina, tenho 24 anos e sou natural de São Paulo. Atualmente, e
         <img 
             alt="YouTube" 
             title="Meu canal no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=YouTube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://camo.githubusercontent.com/a67feba4f5643de3002051e6c0957687aa81bab72741956e80905f3589795ddb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465"
         />
     </a>
     <a href="https://github.com/annakdss?tab=repositories&sort=stargazers">
